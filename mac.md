@@ -18,7 +18,9 @@
 ![Xcode Install](./imgs/mac_xcode_select.png)
 4. install Homebrew and type:
 
- ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"``` and press enter
+ ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"``` 
+
+and press enter
 5. type ```brew install git```
 
 ---
