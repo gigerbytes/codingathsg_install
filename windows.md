@@ -19,7 +19,7 @@
 
 ![Use OpenSSH](./imgs/git_ssh.png)
 ![Line Endings Conversion](./imgs/git_checkout_win_convert.png)
-![Git from Command Prompt](./imgs/gin_in_cmd.png)
+![Git from Command Prompt](./imgs/git_in_cmd.png)
 ![No Difftool](./imgs/git_difftool.png)
 ![Extra Options](./imgs/git_extra_opt.png)
 ![Launch only](./imgs/git_launch.png)
