@@ -13,7 +13,7 @@
 
 1. go to https://git-scm/download/win
 2. Choose the 64-bit version & Save to downloads
-![Downloda & Install](./git_website.png)
+![Download & Install](./git_website.png)
 3. Install
 4. Use the default options: See the images below:
 
@@ -23,3 +23,9 @@
 ![No Difftool](./imgs/git_difftool.png)
 ![Extra Options](./imgs/git_extra_opt.png)
 ![Launch only](./imgs/git_launch.png)
+
+---
+# NodeJS - Dependency Installer
+
+1. go to https://nodejs.org/en
+2. go to Windows
