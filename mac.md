@@ -5,8 +5,7 @@
 # Atom - Installing The Tools 
 
 1. go to https://atom.io
-2. Download the 'windows installer'
-3. Install
+2. Press 'download for mac'
 
 ---
 # Git - Version Control System
