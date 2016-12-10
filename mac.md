@@ -22,7 +22,9 @@ Sign up at : https://education.github.com
 
 and press enter
 
-5. type ```brew install git```
+4. type 
+
+```brew install git```
 
 ---
 # NodeJS - Dependency Installer
