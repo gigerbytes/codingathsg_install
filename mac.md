@@ -10,6 +10,8 @@
 ---
 # Git - Version Control System
 
+Sign up at : https://education.github.com
+
 1. Download and Install the Commandline tools:
 2. Open terminal
 ![Open Terminal](./imgs/mac_term_search.png)

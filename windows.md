@@ -11,6 +11,8 @@
 ---
 # Git - Version Control System
 
+Sign up @ https://education.github.com
+
 1. go to https://git-scm/download/win
 2. Choose the 64-bit version & Save to downloads
 ![Download & Install](./git_website.png)
