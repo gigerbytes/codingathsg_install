@@ -30,4 +30,5 @@ Sign up @ https://education.github.com
 # NodeJS - Dependency Installer
 
 1. go to https://nodejs.org/en
-2. go to Windows
+2. go to Windows and Download it
+3. Run the installer
