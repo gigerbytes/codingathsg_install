@@ -28,4 +28,6 @@ Sign up at : https://education.github.com
 ---
 # NodeJS - Dependency Installer
 
+Use the version 6.9
+
 1. type ```brew install node```

@@ -13,7 +13,7 @@
 
 Sign up @ https://education.github.com
 
-1. go to https://git-scm/download/win
+1. go to https://git-scm.com/download/win
 2. Choose the 64-bit version & Save to downloads
 ![Download & Install](./imgs/git_website.png)
 3. Install
@@ -28,6 +28,8 @@ Sign up @ https://education.github.com
 
 ---
 # NodeJS - Dependency Installer
+
+Use the Version 6.9
 
 1. go to https://nodejs.org/en
 2. go to Windows and Download it
