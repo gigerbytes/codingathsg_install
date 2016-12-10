@@ -12,12 +12,11 @@
 
 Sign up at : https://education.github.com
 
-1. Download and Install the Commandline tools:
-2. Open terminal
+1. Open terminal
 ![Open Terminal](./imgs/mac_term_search.png)
-3. Type ```xcode-select --install```
+2. Type ```xcode-select --install```
 ![Xcode Install](./imgs/mac_xcode_select.png)
-4. install Homebrew and type:
+3. install Homebrew and type:
 
  ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"``` 
 and press enter
