@@ -21,6 +21,7 @@ Sign up at : https://education.github.com
  ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"``` 
 
 and press enter
+
 5. type ```brew install git```
 
 ---
