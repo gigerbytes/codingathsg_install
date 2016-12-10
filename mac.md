@@ -1,4 +1,4 @@
-# Installing The Tools - Windows
+# Installing The Tools - Mac
 
 ---
 
